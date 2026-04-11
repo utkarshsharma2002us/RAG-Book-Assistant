@@ -24,6 +24,13 @@ Whether you're studying, researching, or exploring a book, this tool helps you e
 
 ---
 
+## IMAGES
+
+<img width="845" height="413" alt="Screenshot 2026-04-11 083717" src="https://github.com/user-attachments/assets/70075174-b045-48d5-98c2-bd44eb7c9915" />
+
+<img width="814" height="392" alt="Screenshot 2026-04-11 083934" src="https://github.com/user-attachments/assets/d6014488-53b5-49cb-a7ab-ec3826b325f1" />
+
+
 ## Tech Stack
 
 * **Frontend/UI:** Streamlit
